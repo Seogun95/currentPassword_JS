@@ -21,7 +21,7 @@ function valFunction() {
 }
 ```
 
-**`button`을 eles if 를 통해 클릭시에도 `input`에 텍스트를 전달할 수 있게 합니다.**
+**`button`을 `eles if` 를 통해 클릭시에도 `input`에 텍스트를 전달할 수 있게 합니다.**
 
 ```html
 <button onclick="valFunction() ">입력</button>
